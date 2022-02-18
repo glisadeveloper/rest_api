@@ -1,5 +1,5 @@
 # RestFul Api - example by Gligorije
-	* Custom PHP API example using some PHP 8 features ( a few )
+	* Custom PHP API example witout any framework
 	* This example shows how one should restful service work
 	* Database Wrapper with the Singleton Pattern
 	* Through the developing process, I use Postman for testing endpoints 
@@ -10,6 +10,7 @@
 	* Find in root folder database file (restful.sql) for MySQL and import 
 	* In database.php from line 7 add your logins/database parameters for MySQL
 	* Use Postman collection for endpoints: https://www.getpostman.com/collections/4e12db0d0e17a61a87bf (replace local ip if you tested on server)
+	* You need to have PHP 8 version or above 
 
 ### Other information
 	* This is a simple example of creating Api from scratch without using some framework
